@@ -7,5 +7,6 @@ public class GtiTest {
         System.out.println("hello git third!");
         System.out.println("hello git master!");
         System.out.println("hello git demo!");
+        System.out.println("hello git push!");
     }
 }
